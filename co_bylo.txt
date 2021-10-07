@@ -5,3 +5,4 @@
     * Kelímkovač
     * Cesty věží po šachovnici
     * Úvod do ReCodExu
+	* DU: zprovoznit ReCodEx a vyřešit testovací úlohy
