@@ -1,0 +1,7 @@
+2021-10-04:
+	* Organizační věci, podmínky zápočtu
+	* Vážení mincí - nejtěžší, nejtěžší a nejlehčí, hledání optimálního řešení
+    * Velbloud a banány
+    * Kelímkovač
+    * Cesty věží po šachovnici
+    * Úvod do ReCodExu
