@@ -12,7 +12,7 @@ Vítejte na přehledové stránce ke cvičením z předmětů Algoritmizace a Pr
 Pro zápočet z Algoritmizace je potřeba získat dostatek bodů z domácích úloh. Pro zápočet z Programování 1 je potřeba získat dostatek bodů z domácích úloh, úspěšně absolvovat zápočtový test a odevzdat a odprezentovat zápočtový program.
 
 ### Domácí úlohy
-Všechny domácí úlohy se odevzdávají pomocí systému ReCodEx. K získání zápočtu je pro oba předměty získat alespoň 2/3 bodů.
+Všechny domácí úlohy se odevzdávají pomocí systému ReCodEx. K získání zápočtu je pro oba předměty potřeba získat alespoň 2/3 bodů.
 
 ### Zápočtový test
 Test se bude psát na posledním cvičení. Během zkouškového období pak budou k dispozici opravné termíny.
