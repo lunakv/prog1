@@ -1,3 +1,11 @@
+2021-10-11:
+	* Definice algoritmu
+    * Časová a prostorová složitost programu
+    * Srovnávání složitostí - O, Ω, Θ
+    * Tvrzení o vlastnostech O
+    * Základní kameny programování v Pythonu
+    * Aritmetický průměr posloupnosti
+    * Odstraňování mezer z konců řetězce
 2021-10-04:
 	* Organizační věci, podmínky zápočtu
 	* Vážení mincí - nejtěžší, nejtěžší a nejlehčí, hledání optimálního řešení
