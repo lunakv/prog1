@@ -8,6 +8,11 @@ Vítejte na přehledové stránce ke cvičením z předmětů Algoritmizace a Pr
 - [ReCodEx](https://recodex.mff.cuni.cz)
 - [ReCodEx příručka pro studenty](https://www.ms.mff.cuni.cz/ReCodEx/StudentDoc.pdf)
 
+### Příklady na procvičení
+- [Kasiopea](https://kasiopea.matfyz.cz)
+- [Project Euler](https://projecteuler.net)
+- [LeetCode](https://leetcode.com)
+
 ## Zápočet
 Pro zápočet z Algoritmizace je potřeba získat dostatek bodů z domácích úloh. Pro zápočet z Programování 1 je potřeba získat dostatek bodů z domácích úloh, úspěšně absolvovat zápočtový test a odevzdat a odprezentovat zápočtový program.
 
