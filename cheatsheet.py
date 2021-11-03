@@ -21,6 +21,8 @@ s = [1, 2, 3]
 # Slovniky
 d = {}
 d = { 'key': 'value', 'secondKey': 7, 'thirdKey': False, 15: 'C' }
+# None
+n = None
 
 # Prevod mezi typy
 i = int('2')
