@@ -34,5 +34,6 @@ Před psaním dokumentace doporučuji přečíst [návod](https://ksvi.mff.cuni.
 
 - [Lenka Forstová](https://www.ms.mff.cuni.cz/~forstova/pgmZ/Zapoctaky.html)
 - [Martin Mareš](https://mj.ucw.cz/vyuka/zap)
+- [Michal Žemlička](http://www.ms.mff.cuni.cz/~zemlicka/vyuka/NMIN101/namety/)
 
 Případně si můžete vymyslet téma vlastní.
