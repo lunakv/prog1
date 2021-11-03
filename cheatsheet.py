@@ -18,6 +18,9 @@ b = False
 # Seznamy
 s = []
 s = [1, 2, 3]
+# Slovniky
+d = {}
+d = { 'key': 'value', 'secondKey': 7, 'thirdKey': False, 15: 'C' }
 
 # Prevod mezi typy
 i = int('2')
@@ -114,6 +117,23 @@ len(l)           # delka seznamu (== 6)
 l.append(35)     # pridani prvku na konec seznamu
 x = l.pop()      # odstraneni prvku z konce seznamu (vraci odebranou hodnotu)
 l.insert(2, 'a') # prida 'a' do seznamu na pozici 2 (prvky pozice 2+ se posunou doprava)
+del l[1]         # odstrani prvek na pozici 1 (prvky pozice 2+ se posunou doleva)
 
 l2 = l
 l.append(40)     # !! l i l2 obsahuji stejny seznam! zmena se projevi i v l2!!
+
+##################################
+## Zakladni operace se slovniky ##
+dct = { 'key': 'val', 'key2': 7, 'key4': True }
+
+dct['key2']           # vyber konretni hodnoty pomoci jejiho klice (== 7)
+# x = dct['otherKey'] # !!pristup pres neexistujici klic shodi program!!
+dct['newKey'] = 2     # pridani/prepsani nove hodnoty pod dany klic
+del dct['key4']       # smazani konkretni dvojice klic-hodnota
+
+if 'newKey' in dct:   # kontrola existence klice ve slovniku
+    dct['key']) += 1
+
+for key in dct:       # enumerace vsech klicu ve slovniku
+    print(dct[key])
+
