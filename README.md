@@ -7,6 +7,7 @@ Vítejte na přehledové stránce ke cvičením z předmětů Algoritmizace a Pr
 - [Python dokumentace](https://docs.python.org/3/)
 - [ReCodEx](https://recodex.mff.cuni.cz)
 - [ReCodEx příručka pro studenty](https://www.ms.mff.cuni.cz/ReCodEx/StudentDoc.pdf)
+- [Studentské úložiště](https://su.mff.cuni.cz/)
 
 ### Příklady na procvičení
 - [Kasiopea](https://kasiopea.matfyz.cz)
