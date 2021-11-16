@@ -23,17 +23,19 @@ Všechny domácí úlohy se odevzdávají pomocí systému ReCodEx. K získání
 Test se bude psát na posledním cvičení. Během zkouškového období pak budou k dispozici opravné termíny.
 
 ### Zápočtový program
-Zápočtovým programem se rozumí větší kus software, který budete samostatně vyvíjet v průběhu semestru. Nejpozději do konce roku je potřeba vybrat si téma a zaslat mi ho ke schválení. Po vypracování programu mi ho odevzdáte a domluvíme se na jeho prezentaci (osobně nebo přes Zoom). Pro získání zápočtu je potřeba program úspěšně odprezentovat do 28. 2. 2022. Součástí dokončeného programu je:
+Zápočtovým programem se rozumí větší kus software, který budete samostatně vyvíjet v průběhu semestru. Na rozdíl od zbytku cvičení není třeba psát program v Pythonu, můžete si vybrat libovolný jazyk (po předchozí domluvě). Nejpozději do konce roku (ale ideálně do konce listopadu) je potřeba vybrat si téma. Ideální je vymyslet si téma vlastní, nicméně můžete využít i návrhy kolegů uvedené níže. Vybrané, resp. vymyšlené téma mi pošlete mailem, kde vám ho buď rovnou schválím, nebo ho případně společně doladíme.
+
+Hotový zápočtový mi dodejte nejpozději do 28. 2. 2022, ale upozorňuji, že pokud potřebujete kredity do zimního semestru (kvůli kontrole studia či stipendiu), musíte získat zápočet před koncem semestru. Součástí dokončeného programu je:
 
 - __Implementace__ - zdrojový kód programu
 - __Uživatelská dokumentace__ - jak s vaším programem pracuje uživatel
 - __Programátorská dokumentace__ - jak váš program funguje
-- __Testovací data__ - ukázkový vstup a výstup (kde to dává smysl)
+- __Testovací data__ - ukázkový vstup a výstup (když to dává smysl)
 
-Před psaním dokumentace doporučuji přečíst [návod](https://ksvi.mff.cuni.cz/~kryl/dokumentace.htm) Rudolfa Kryla. Pro inspiraci při výběru tématu můžete využít následujících odkazů:
+Před psaním dokumentace doporučuji přečíst [návod](https://ksvi.mff.cuni.cz/~kryl/dokumentace.htm) Rudolfa Kryla. 
 
+##### Příklady vhodných témat
+- [Tomáš Holan](https://ksvi.mff.cuni.cz/~holan/zap_zs_2021-22_python.txt)
 - [Lenka Forstová](https://www.ms.mff.cuni.cz/~forstova/pgmZ/Zapoctaky.html)
 - [Martin Mareš](https://mj.ucw.cz/vyuka/zap)
 - [Michal Žemlička](http://www.ms.mff.cuni.cz/~zemlicka/vyuka/NMIN101/namety/)
-
-Případně si můžete vymyslet téma vlastní.
