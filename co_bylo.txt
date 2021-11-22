@@ -1,3 +1,15 @@
+2021-11-15:
+	* Binární vyhledávání
+      - popis běhu, rozbor časové složitosti
+    * Spojové seznamy
+      - rekapitulace definice
+      - reprezentování seznamu jako třídy
+      - přidávání/odebírání prvků na začátku
+	  - přidávání/odebírání prvků na konci
+        - iterativní průchod seznamem
+        - kde průchod zastavit?
+
+---------------
 2021-10-18:
 	* String slicing
 	* Seznamy
